@@ -1,14 +1,14 @@
-# 📟 Node 5: Tactical Command Station (Norwich-to-London Strategic Link)
+#  Node 5: Tactical Command Station (Norwich-to-London Strategic Link)
 
 **Node 5** is a high-power mobile strategic terminal housed in a reinforced 40x24x12.5cm aluminum tactical case. The device is engineered to remotely orchestrate an AI compute cluster (**Node 4**) and establish a private, long-range internet bridge (up to 160km / 100 miles) bypassing all public network infrastructure.
 
-## 🚀 Key Strategic Features
+##  Key Strategic Features
 *   **Extreme Range (160km):** Utilizes a foldable 24dBi parabolic mesh antenna and a high-power radio engine for direct point-to-point communication between Norwich and London.
 *   **Adaptive Signal Scaling:** An automated RSSI-based logic algorithm that dynamically adjusts transmission power to maintain stealth and signal integrity over extreme distances.
 *   **Ghost Wi-Fi Hotspot:** Transforms the briefcase into a secure Wi-Fi access point for mobile devices, tunneling home internet from Node 4 over the encrypted radio link.
 *   **Hard-Shell Security:** Equipped with dual mechanical locks, hardware-level AES-256 encryption, and a physical "Neural-Kill" mushroom button for instantaneous remote VRAM purging.
 
-## 📊 Bill of Materials (BOM) — Node 5 Tactical Hub
+##  Bill of Materials (BOM) — Node 5 Tactical Hub
 
 
 
@@ -30,10 +30,10 @@
 
 | **TOTAL** | | **Target Budget Met** | **£300.00** |
 
-## 🛠 System Logic & "Neural-Kill" Protocol
+##  System Logic & "Neural-Kill" Protocol
 Upon activation of the physical emergency button or signal loss detection, Node 5 initiates **"Protocol Zero"**. An encrypted packet is broadcast to Node 4 (Norwich), triggering an immediate hardware-level interrupt that wipes the 12GB VRAM of the RTX 3060 and locks all NVMe storage arrays until the master key is verified via the Node 5 terminal.
 
-## 📈 Installation & Deployment
+##  Installation & Deployment
 ```bash
 # Clone the tactical repository
 git clone https://github.com
